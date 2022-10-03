@@ -1,3 +1,5 @@
+
+<!---
 <p align="center">
   <a href="https://solana.com">
     <img alt="Solana" src="https://i.imgur.com/uBVzyX3.png" width="250" />
@@ -10,11 +12,10 @@ Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=git
 [travis-image]:
 https://travis-ci.org/solana-labs/example-helloworld.svg?branch=master
 [travis-url]: https://travis-ci.org/solana-labs/example-helloworld
-
+--->
 # Logging, Testing with Solana
 
-Solana takes the synergy of JS and Rust is making a more user-friedly blockchain 
-development framework for transactions. 
+https://doc.rust-lang.org/book/ch11-01-writing-tests.html
 
 The main goal of this repo is to understand how logging and testing work 
 in the context of Solana smart contract.
